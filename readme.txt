@@ -1,0 +1,1 @@
+Put all 3 .java files in the same folder and run GameLauncher.java
